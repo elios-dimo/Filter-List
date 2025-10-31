@@ -16,7 +16,7 @@ const Modal = ({ isOpen, onClose, person }) => {
         
         {person && (
             <p className="text-xl font-semibold mb-6 flex justify-center">
-                {person.firstName} {person.lastName} 
+                {person.firstName} {person.lastName} ? 
             </p>
         )}
 
