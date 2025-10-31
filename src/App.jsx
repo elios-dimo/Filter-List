@@ -1,4 +1,4 @@
-import NameList from './components/nameList.jsx';
+import NameList from './components/List.jsx'
 
 function App() {
   return (
